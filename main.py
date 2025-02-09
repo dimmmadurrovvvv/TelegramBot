@@ -13,7 +13,7 @@ logging.basicConfig(
     level=logging.INFO
 )
 
-TOKEN = '7261209338:AAF-KKdojVZ96tcGaOCXsfbY0ilWSSL_aQs'
+TOKEN = ''
 SUPPORT_URL = 'https://t.me/raihanhost'
 CHANNEL_URL = 'https://t.me/raihanhost'
 CHANNEL_ID = '-1002211482813'  # Ваш полученный ID канала
